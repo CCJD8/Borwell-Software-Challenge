@@ -1,0 +1,7 @@
+C:\Users\Connor\source\repos\room_calculations\room_calculations\bin\Debug\room_calculations.exe.config
+C:\Users\Connor\source\repos\room_calculations\room_calculations\bin\Debug\room_calculations.exe
+C:\Users\Connor\source\repos\room_calculations\room_calculations\bin\Debug\room_calculations.pdb
+C:\Users\Connor\source\repos\room_calculations\room_calculations\obj\Debug\room_calculations.csprojResolveAssemblyReference.cache
+C:\Users\Connor\source\repos\room_calculations\room_calculations\obj\Debug\room_calculations.csproj.CoreCompileInputs.cache
+C:\Users\Connor\source\repos\room_calculations\room_calculations\obj\Debug\room_calculations.exe
+C:\Users\Connor\source\repos\room_calculations\room_calculations\obj\Debug\room_calculations.pdb
